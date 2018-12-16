@@ -1,7 +1,7 @@
 {
-  "name": "banana-parser",
-  "version": "1.0.0",
-  "description": "An argument parser to make CLIs and other gucci stuff.",
+  "name": "terminal-flooder",
+  "version": "1.0.1",
+  "description": "Completely flood your terminal!",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
